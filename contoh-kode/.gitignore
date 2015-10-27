@@ -1,0 +1,5 @@
+# Vim Ignore
+*.swp
+
+# Maven Ignore
+target
